@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently student of Diploma in Computer Science & Technology. I am learning Web Application Development. I love working with JavaScript, React, and Node.js, and I'm always exploring new tools to improve my workflow.<br>Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects. Feel free to reach out if you want to talk about web development, open-source, or cool tech ideas!
+
+I am currently a Diploma student in Computer Science & Technology and learning Web Application Development. I enjoy working with JavaScript, React, Next.js, and Node.js, and I am always exploring new technologies to improve my development skills.
+
+Currently, I am focused on strengthening my Full Stack Web Development knowledge and building real-world projects. Feel free to reach out if you would like to discuss web development, open-source projects, or interesting tech ideas.
 
 
 ## 🌐 Socials:
