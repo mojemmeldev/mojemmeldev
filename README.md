@@ -1,4 +1,10 @@
-# 💫 About Me:
+<p align="center">
+  <img src="./assets/banner.png" alt="GitHub Banner" width="100%" />
+</p># 
+
+
+
+💫 About Me:
 
 I am currently a Diploma student in Computer Science & Technology and learning Web Application Development. I enjoy working with JavaScript, React, Next.js, and Node.js, and I am always exploring new technologies to improve my development skills.
 
